@@ -1,0 +1,70 @@
+Software engineering is  a  discipline within computer science that is focused on the systematic design development testing and maintenance of software systems
+Its importances within the technology industry include
+- Innovation. Software engineering allows for the innovation of apps and websites that help solve issues within our society.
+-It helps identify issues and fix bugs before they become bigger problems.
+- It helps promote collaboration among different developers and designers.
+-Ensuring security. Software engineers implement measures to protect sensitive data and this eventually reduces cyber security threats.
+Key milestones in the development of software engineering include;
+-Between 2002-2010 Agile Methodologies gained prominence focusing on customer value and iterative develoment exemplified by frameworks like Scrum.
+-Between 1983-1992 The rise of personal computers shifted focus to user friendly software, with the introduction of object oriented programming enhancing productivity through software reuse.
+- Between 1968-1982 The formal establishment of software engineerig, introducing methodologies to enhance quality and productivity.
+List and briefly explain the phases of the software development life cycle
+-Planning. This includes setting goals and resources including costs and timelines.
+-Design. This is basically outlining the architecture and data structures based on the requirements.
+-Development. This involves the coding process according to the specifications of the design.
+-Testing. Checking the software for bugs and ensuring it meets the requirements.
+-Implementation. Deploying the software  to alive environment.
+-Maintenance, This inolves maintaining thr  software. for example checking for bugs.
+Compare and contrast the Waterfall and Agile methodologies. Provide scenarios where each would be appropriate
+-Waterfall Methodology. It is a linear sequential approach where each phase must be completed before the next begins. Its stages include implementation and testing.
+-it provides a clear structure making it easy to manage projects.
+- It is ideal for projects with stable requirements such as construction and manufacturing.
+Agile methodology. It is an iterative approach that promotes flexibility and collaboration.
+-it allows for rapid changwes.
+-it is best suited for dynamic environments like mobile app projects.
+Roles and responsibilities of a software developer, quality assurance engineer and project manager in a software engineering team
+-Software developer
+-Coding. writting codes using appropriate programming languages.
+-Testing and debugging. conducts test to identify and fix bugs.
+-Design. Creates software architecture that aligns with user requirement.
+-Quality assurance engineer.
+-Test Planning. Develops a test strategy and plan to ensure all aspects of the software are evaluated.
+-Defect reporting. Documents and communicates any issues found during testing.
+-Collaboration. Works closely with developers and stakeholders to understand requirement and provide feedback.
+Project manager.
+-Project planning. defines project scope objectives and timelines.
+-risk management. identifies risks and develops strategies to minimize them.
+-Budget oversight. manages project oversight.
+Discuss the importance of IDEs and VSC in software development process. give examples of each.
+-IDEs streamline the coding process by providing a comprehensive suite of tools within a single interface. examples include visual studio and eclipse.
+-VSC allows developers to track revision collaborate on projects and maintain a history of changes. examples include Git and Subversion.
+What are some common challenges faced by software engineers. provide strategies to overcome this.
+-Rapid technology change. keeping up with new languages can be overwhelming. The strategy can be to allocate time for continous learning .
+-Time constaints. tight deadlines lead to decreased quality of work. The strategy can be prioritie tasks using time management techniques.
+-Limited resources. Inadequate Infrastructure can hinder development. The strategy could be to advocate for necessary tools and resources.
+-Security concerns. Protecting software from threats is critical. The strategy could be to integrate security practices in the development process.
+Explain the different types of testing and their importance in software quality assurance.
+-Unit testing
+This involves testung individual components of the sotware in isolation to verify that each part works as intended.
+-It helps to identify bugs early in the development peocess 
+-It facilitates code refactoring by ensuring that changes do not introduce new errors.
+-Integration testing 
+This phase tests the interaction between integrated components to ensure they work together correctly.
+-It identintifies interface defects and ensure that combine parts function as expected.
+-System testing.
+-This type tests the complete and intergrated software system to evaluate its compliance with specified requirements.
+-It assesses the overall behaviour of the application in a simulated environment ensuring that all components work together.
+Part 2. Introdduction to AI and prompt engineering.
+Define prompt engineering and discuss its importance in interacting with AImodels.
+-Prompt engineering is the practice of designing and refining specific instructions or questions to effectively interact with AI models.
+-Importance
+-Enhance output quality. well designed prompts guide AI models to generate more coherent answers.
+-Improve user experience. By providing clear instructions prompt engineering helps users achieve their desired outcome.
+-Supports continous learning. models are able to learn from user feedback and improve overtime.
+Provide an example of a vague prompt and then improve it by making it clear. Explain why the improved prompt is more effective.
+-Vague prompt." Tell me about education in Africa."
+-Clear prompt. "Tell me about the current state of education in Africa , the challenges it faces and long term solutions that can be made"
+-The improved prompt is more effective because 
+-Clarity. It specifies the information that it wants.
+-Specificity. The prompt directs the AI to focus on the current state of education in Africa rather than providing a general overview.
+-Conciseness. The prompt is staightfoward and to the point making it easy for the AI to understand. 
